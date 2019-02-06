@@ -108,5 +108,5 @@ plt.gcf().savefig('pythonin-kuva.png')
 # In[ ]:
 
 
-# mitäs nyt?
+# mitäs nyt? :D
 
